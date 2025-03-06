@@ -1,0 +1,4 @@
+getgenv().Key = "MARU-C7E0W-KZB9F-AYSV-YUNDG-A52DI"
+getgenv().id = "1112315544822108240"
+_G.Script_Language = "Thai"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
